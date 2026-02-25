@@ -1,47 +1,78 @@
-# Insurance_Claims_And_Risks_Analysis_Dashboard
-A comprehensive Power BI Dashboard Template (.pbit) designed for analyzing insurance risks, claim trends, loss patterns, and overall business performance. This template helps insurance teams, analysts, and business stakeholders make data-driven decisions using interactive visuals and automated analytics.
+# 🍕 Pizza Sales Analytics Dashboard
 
-📌 Overview
+A complete Power BI project focused on analyzing pizza sales performance, revenue trends, product insights, and overall business metrics.
 
-The Insurance Risks and Claims Dashboard provides a unified view of multiple insurance performance indicators. It enables users to monitor claims, track policy risks, analyze customer segments, and identify high-risk areas.
+This project demonstrates how raw sales data can be transformed into actionable insights using SQL for data analysis and Power BI for interactive visualization.
 
-The template is fully customizable—users can load their own datasets and instantly generate insights using the built-in data model, relationships, and visuals.
+---
 
-✨ Key Features
+## 📌 Project Overview
 
-1. Claims Analysis
-Total claims count and total claim amount
+The Pizza Sales Analytics Dashboard provides a clear view of business performance across revenue, orders, products, and time-based trends.
 
-Monthly/yearly claim trends
+###  Project Workflow
 
-Claim settlement ratio
+- Data cleaning and preparation  
+- KPI calculation using SQL  
+- Data modeling in Power BI  
+- Interactive dashboard development  
+- Business insight generation  
 
-Average processing time for claims
+The final dashboard helps stakeholders track performance, identify best-selling products, and support data-driven decision-making.
 
-2. Risk Assessment
-High-risk vs low-risk policy distribution
+---
 
-Risk scoring based on policy details, customer profile, location, and claim history
+## ✨ Key Features
 
-Visualization of risk categories
+### 1️ Sales Performance Analysis
+- Total Revenue  
+- Total Orders  
+- Average Order Value  
+- Revenue Trends (Daily, Weekly, Monthly)  
+- Peak Sales Hours  
 
-3. Policy Insights
-Active, lapsed, and new policies
+### 2️ Product & Category Insights
+- Revenue by Pizza Category  
+- Revenue by Pizza Size  
+- Category Contribution (%)  
+- Top 5 & Bottom 5 Selling Pizzas  
+- Order Distribution by Product  
 
-Policy type performance (life, health, vehicle, property, etc.)
+### 3 Time-Based Analysis
+- Weekly Sales Performance  
+- Monthly Revenue Trends  
+- Order Volume by Day of Week  
+- Seasonal Sales Patterns  
 
-Premium vs risk comparison
+### 4️ Core Business KPIs
+- Total Revenue  
+- Total Quantity Sold  
+- Total Orders  
+- Average Order Value  
+- Revenue Contribution Percentage  
 
-4. Customer & Demographic Analysis
-Segmentation by age, region, and income group
+### 5️ Interactive Dashboard Features
+- Dynamic slicers (Date, Category, Size)  
+- Drill-down functionality  
+- KPI summary cards  
+- Clean and professional layout  
+- Fully interactive visuals  
 
-Customer retention and churn indicators
+---
 
-High-value customers
+## 🛠 Tools & Technologies
 
-5. Financial & Loss Metrics
-Loss ratio
+- SQL (Data Cleaning & KPI Calculations)  
+- Power BI (Data Modeling & Visualization)  
+- Microsoft Excel (Initial Data Handling)  
 
-Claim frequency and severity
+---
 
-Premium collected vs claims paid
+## 📊 Business Value
+
+This dashboard enables businesses to:
+
+- Monitor sales performance effectively  
+- Identify high-performing and low-performing products  
+- Understand customer purchasing trends  
+- Make data-driven decisions to improve revenue and efficiency  
